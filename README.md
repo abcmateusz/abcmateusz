@@ -14,5 +14,5 @@
   
 📃My cerfifications:
 - RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
-- LSJ - Legacy Java Script - https://www.freecodecamp.org/certification/mstaszek/javascript-algorithms-and-data-structures
+- LJS - Legacy Java Script - https://www.freecodecamp.org/certification/mstaszek/javascript-algorithms-and-data-structures
 
