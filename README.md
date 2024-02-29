@@ -1,16 +1,18 @@
-### Hi there 👋
+🙋‍♂️ Hi, I’m @abcmateusz
 
-<!--
-**abcmateusz/abcmateusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I’m currently learning:
+  - Html
+  - Css
+  - Bootstrap
+  - JS
+  - C++
+  - Python
+  - Java
+  - Lua
+  
+☎ How to reach me: mati@stabit.pl or my website.
+  
+📃My cerfifications:
+- RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
+- LSJ - Legacy Java Script - https://www.freecodecamp.org/certification/mstaszek/javascript-algorithms-and-data-structures
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
