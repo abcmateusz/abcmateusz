@@ -10,7 +10,7 @@ o🙋‍♂️ Hi, I’m @abcmateusz
   - Java
   - Lua
   
-☎ How to reach me: mati@stabit.pl or my website twojweb.pl
+☎ How to reach me: mati@stabit.pl or my https://website twojweb.pl
   
 📃My cerfifications:
 - RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
