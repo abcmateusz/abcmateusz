@@ -1,4 +1,4 @@
-🙋‍♂️ Hi, I’m @abcmateusz
+o🙋‍♂️ Hi, I’m @abcmateusz
 
 👨‍🎓 I’m currently learning:
   - Html
@@ -10,7 +10,7 @@
   - Java
   - Lua
   
-☎ How to reach me: mati@stabit.pl or my website.
+☎ How to reach me: mati@stabit.pl or my website twojweb.pl
   
 📃My cerfifications:
 - RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
