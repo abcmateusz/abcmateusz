@@ -12,7 +12,7 @@
   
 ☎ How to reach me: mati@stabit.pl or my website https://mateusz-staszek.netlify.app
 
-🕸my services page: https://Twojweb.pl
+🕸My services page: https://Twojweb.pl
 
 📃My cerfifications:
 - RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
