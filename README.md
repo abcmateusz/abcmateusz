@@ -10,8 +10,10 @@
   - Java
   - Lua
   
-☎ How to reach me: mati@stabit.pl or my website https://twojweb.pl
-  
+☎ How to reach me: mati@stabit.pl or my website https://mateusz-staszek.netlify.app
+
+🕸my services page:Twojweb.pl
+
 📃My cerfifications:
 - RWD - Responsive Web Design - https://www.freecodecamp.org/certification/mstaszek/responsive-web-design
 - LJS - Legacy Java Script - https://www.freecodecamp.org/certification/mstaszek/javascript-algorithms-and-data-structures
