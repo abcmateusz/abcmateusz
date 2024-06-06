@@ -10,7 +10,7 @@
   - Java
   - Lua
   
-☎ How to reach me: mati@stabit.pl or my website https://mateusz-staszek.netlify.app
+☎ How to reach me: mati@stabit.pl or my website https://abcmateusz.xyz
 
 🕸My services page: https://Twojweb.pl
 
