@@ -9,6 +9,8 @@
   - Python
   - Java
   - Lua
+  - PHP
+  - Angular
   
 ☎ How to reach me: mati@stabit.pl or my website https://abcmateusz.xyz
 
