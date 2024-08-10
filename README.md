@@ -12,7 +12,7 @@
   - PHP
   - Angular
   
-☎ How to reach me: mati@stabit.pl or my website https://abcmateusz.xyz
+☎ How to reach me: mati@stabit.pl , my website https://abcmateusz.xyz i Discord: @abcmateusz
 
 🕸My services page: https://Twojweb.pl
 
