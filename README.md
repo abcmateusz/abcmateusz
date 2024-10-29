@@ -11,8 +11,11 @@
   - Lua
   - PHP
   - Angular
+  - React
+  - SQL
+  - Symfony
   
-☎ How to reach me: mati@stabit.pl , my website https://abcmateusz.xyz i Discord: @abcmateusz
+☎ How to reach me: mati@stabit.pl , my website https://abcmateusz.xyz & Discord: @abcmateusz
 
 🕸My services page: https://Twojweb.pl
 
