@@ -33,9 +33,6 @@
 
 ---
 
-## 💼 My Services
-Visit [TwojWeb.pl](https://Twojweb.pl) – I offer full website implementation, programming services, and web technology support.
-
 ## ☎ How to Reach Me?
 
 - **Email**: mati@stabit.pl
