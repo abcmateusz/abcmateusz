@@ -1,6 +1,6 @@
 # 🕸️ abcmateusz - Web Developer & Programmer
 
-👋 **Hi! I’m Mateusz** - a technical high school student passionate about programming, with over three years of experience in web development. My goal is to achieve financial independence and sell my projects online. I create both front-end and back-end solutions, focusing on responsiveness and modern design.
+👋 **Hi! I’m Mateusz** - a technical high school student passionate about programming, with over three years of experience in web development. I create both front-end and back-end solutions, focusing on responsiveness and modern design.
 
 ## 👨‍🎓 Technologies I'm Learning:
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, Angular, React
