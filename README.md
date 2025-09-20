@@ -36,7 +36,6 @@
 ## ☎ How to Reach Me?
 
 - **Email**: mati@stabit.pl
-- **Website**: [abcmateusz.xyz](https://abcmateusz.xyz)
 - **Discord**: @abcmateusz
 
 ---
